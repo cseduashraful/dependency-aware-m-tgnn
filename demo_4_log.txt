@@ -1,0 +1,28 @@
+Epoch: 0; Training Loss: 21.956929206848145 | Validation AP: 0.583 AUC: 0.500
+Epoch: 0; Test AP: 0.583 AUC: 0.500
+Epoch: 0; Test New Node AP: 0.500 AUC: 0.375
+total time: dataloading: 0.08986401557922363 and overall: 2.7586326599121094
+Epoch: 1; Training Loss: 21.962960720062256 | Validation AP: 0.417 AUC: 0.000
+Epoch: 1; Test AP: 1.000 AUC: 1.000
+Epoch: 1; Test New Node AP: 0.583 AUC: 0.500
+total time: dataloading: 0.021585941314697266 and overall: 0.13080620765686035
+Epoch: 2; Training Loss: 22.021591186523438 | Validation AP: 0.583 AUC: 0.500
+Epoch: 2; Test AP: 0.583 AUC: 0.500
+Epoch: 2; Test New Node AP: 0.583 AUC: 0.500
+total time: dataloading: 0.016480207443237305 and overall: 0.1287217140197754
+Epoch: 3; Training Loss: 22.597107410430908 | Validation AP: 1.000 AUC: 1.000
+Epoch: 3; Test AP: 0.583 AUC: 0.500
+Epoch: 3; Test New Node AP: 0.833 AUC: 0.750
+total time: dataloading: 0.016370058059692383 and overall: 0.12813448905944824
+Epoch: 4; Training Loss: 22.394412517547607 | Validation AP: 1.000 AUC: 1.000
+Epoch: 4; Test AP: 0.583 AUC: 0.500
+Epoch: 4; Test New Node AP: 0.833 AUC: 0.750
+total time: dataloading: 0.021034955978393555 and overall: 0.13022971153259277
+Epoch: 5; Training Loss: 22.544081211090088 | Validation AP: 1.000 AUC: 1.000
+Epoch: 5; Test AP: 0.583 AUC: 0.500
+Epoch: 5; Test New Node AP: 0.833 AUC: 0.750
+total time: dataloading: 0.02079463005065918 and overall: 0.13626623153686523
+Epoch: 6; Training Loss: 22.108469486236572 | Validation AP: 0.583 AUC: 0.500
+Epoch: 6; Test AP: 0.833 AUC: 0.875
+Epoch: 6; Test New Node AP: 0.583 AUC: 0.500
+total time: dataloading: 0.01661515235900879 and overall: 0.138749361038208
